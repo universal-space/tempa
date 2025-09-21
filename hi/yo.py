@@ -1,6 +1,4 @@
-print('hello dhron')
-print('hello yo')
-print('hello hi')
+
 print('hello hi yo')
 print('hello hi yo dhron')
 print('hello hi yo dhron')
